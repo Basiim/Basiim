@@ -4,3 +4,6 @@
 ## Reach me 📫
 You can find me on [LinkedIn](https://www.linkedin.com/in/basim-abdullah/), [GitHub](https://github.com/Basiim), [Portfolio](https://basimabdullahtariq.com), [Facebook](https://www.facebook.com/basim.abdullah.142/), [Instagram](https://www.instagram.com/basim.abdullah)
 
+[![Basim's GitHub stats](https://github-readme-stats.vercel.app/api?username=basiim)](https://github.com/anuraghazra/github-readme-stats)
+
+
