@@ -1,4 +1,6 @@
 ## Hi, I'm Basim
+## Find me
+[LinkedIn](https://www.linkedin.com/in/basim-abdullah/), [Facebook](https://www.facebook.com/basim.abdullah.142/)
 ## Languages :computer:
 <!--
 **Basiim/Basiim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
