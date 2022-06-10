@@ -2,7 +2,7 @@
 - I'm currently working on my [final year project](https://fyp-educational-robot.herokuapp.com/), using blockly API.
 - I'm currently learning nodejs, MongoDB, Reactjs
 ## Reach me 📫
-You can find me on [LinkedIn](https://www.linkedin.com/in/basim-abdullah/), [GitHub](https://github.com/Basiim), [Portfolio](https://basimabdullahtariq.com), [Facebook](https://www.facebook.com/basim.abdullah.142/), [Instagram](https://www.instagram.com/basim.abdullah) <br><br>
+You can find me on [LinkedIn](https://www.linkedin.com/in/basim-abdullah/), [GitHub](https://github.com/Basiim), [Portfolio](http://basimabdullahtariq.me), [Facebook](https://www.facebook.com/basim.abdullah.142/), [Instagram](https://www.instagram.com/basim.abdullah) <br><br>
 <a href="https://discord.gg/N4DC2XWzX5" target="_blank"><img src="https://img.shields.io/discord/720224574335352903?label=Discord"></img></a>
 ## Stats 📋
 
