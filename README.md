@@ -2,10 +2,7 @@
   
 
 ### <div align="center">I'm Basim, a Software Engineer 👨‍💻 working at [Synergy-IT](https://synergy-it.com) 🚀</div>  
-  
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
 
 - 🌱 I’m currently learning .NET Core and Software Architectures and Patterns  
   
@@ -82,7 +79,7 @@
 
 
 ## Github Stats  
-<div align="center">
+<div align="center" height="300px">
 <img src="https://github-readme-stats.vercel.app/api?username=basiim&show_icons=true&count_private=true&hide_border=true" />  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basiim&hide_border=true&layout=compact" />
