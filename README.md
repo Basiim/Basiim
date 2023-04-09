@@ -80,9 +80,9 @@
 
 ## Github Stats  
 <div align="center" height="300px">
-<img src="https://github-readme-stats.vercel.app/api?username=basiim&show_icons=true&count_private=true&hide_border=true" />  
+<img src="https://github-readme-stats.vercel.app/api?username=basiim&show_icons=true&count_private=true&hide_border=true&theme=radical" />  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basiim&hide_border=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basiim&hide_border=true&layout=compact&theme=radical" />
 </div>  
   
 
