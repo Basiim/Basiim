@@ -79,11 +79,15 @@
 
 
 ## Github Stats  
-<div align="center" height="300px">
+<table><tr><td valign="top" width="50%">
+
 <img src="https://github-readme-stats.vercel.app/api?username=basiim&show_icons=true&count_private=true&hide_border=true&theme=radical" />  
 
+</td><td valign="top" width="50%">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basiim&hide_border=true&layout=compact&theme=radical" />
-</div>  
+
+</td></tr></table> 
   
 
 <br/>  
