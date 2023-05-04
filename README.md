@@ -86,7 +86,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basiim&hide_border=true&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basiim&hide_border=true&layout=compact&theme=radical&hide=html,css,scss,ejs,handlebars,procfile" />
 
 </td></tr></table> 
   
