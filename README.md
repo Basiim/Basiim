@@ -1,13 +1,13 @@
 # **<div align="center"><HelloWorld \/></div>**  
   
 
-### <div align="center">I'm Basim, a Software Engineer 👨‍💻 working at [Synergy-IT](https://synergy-it.com) 🚀</div>  
+### <div align="center">I'm Basim, a Software Engineer 👨‍💻 working at [AZM Development](https://azm-dev.com/) 🚀</div>  
 
 
-- 🌱 I’m currently learning .NET Core and Software Architectures and Patterns  
+- 🌱 I’m currently learning .NET Core, Distributed Systems, Cloud Technologies, Software Architectures and Patterns  
   
 
-- ❓ Ask me about anything related to web development, robotics, embedded systems and related technologies  
+- ❓ Ask me about anything related to web development, azure cloud and related technologies  
   
 
 <br/>  
