@@ -8,7 +8,8 @@
   
 
 - ❓ Ask me about anything related to web development, azure cloud and related technologies  
-  
+
+- <a href = "https://github.com/basim-azm" target="_blank">Work Profile</a>
 
 <br/>  
 
@@ -79,14 +80,25 @@
 <br/>  
 
 
-## Github Stats  
+## Personal Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=basiim&show_icons=true&count_private=true&hide_border=true&theme=radical" />  
+<img src="https://github-readme-stats.vercel.app/api?username=basimexe&show_icons=true&count_private=true&hide_border=true&theme=radical" />  
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basiim&hide_border=true&layout=compact&theme=radical&hide=html,css,scss,ejs,handlebars,procfile" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basimexe&hide_border=true&layout=compact&theme=radical&hide=html,css,scss,ejs,handlebars,procfile" />
+
+</td></tr></table> 
+
+## Work Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=basim-azm&show_icons=true&count_private=true&hide_border=true&theme=radical" />  
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basim-azm&hide_border=true&layout=compact&theme=radical&hide=html,css,scss,ejs,handlebars,procfile" />
 
 </td></tr></table> 
   
